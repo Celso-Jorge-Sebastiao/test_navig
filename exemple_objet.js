@@ -5,7 +5,9 @@ let objet_musique_ = {
     accompagne : true
 
 }
-let tableau_objets_musique = [
+
+let tableau_objets_musique = 
+[
     {
         id : 1, 
         emotion : "tristesse",
